@@ -1,6 +1,6 @@
 # Python_Employee_Career_Survey
 
-Link: 
+Link: https://nbviewer.org/github/subhajitdey295/Python_Employee_Career_Survey/blob/main/Employee%20Career%20Survey.ipynb
 
 Objectives:
 ✔ What is the analysis of country?
