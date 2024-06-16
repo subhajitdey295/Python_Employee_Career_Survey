@@ -2,7 +2,7 @@
   (Link: https://nbviewer.org/github/subhajitdey295/Python_Employee_Career_Survey/blob/main/Employee%20Career%20Survey%20%281%29.ipynb)
 
 Objectives:
-✔ What is the analysis of country?
+✔ What is the analysis of the country?
 ➡ Key findings: Our analysis indicates that India has the highest number of employees, suggesting a potential need for further 
    segmentation based on specific regions within India for future analyses.
 ![Screenshot (6)](https://github.com/subhajitdey295/Python_Employee_Career_Survey/assets/73297451/b6c9d852-d458-4459-b8d7-806838c4d74b)
